@@ -9,8 +9,6 @@
 * Building wave-propagators
 * Full-waveform inversion (FWI) with Devito
 
-For attendees who would like a more hands on experience with Devito, during the workshop and for a period afterwards we will provide access to Microsoft Azure VMs with Devito and JupyterHub. Alternatively, participants may wish to install Devito on their local machine using the install [instructions provided](https://www.devitoproject.org/devito/download.html).
-
 ## Workshop prerequisites:
 * Basic Python programming knowledge (`Numpy` and `Sympy`)
 * Basic knowledge of finite differences
